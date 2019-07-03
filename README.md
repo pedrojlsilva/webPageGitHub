@@ -9,7 +9,7 @@ Clique no botão "Fork" no canto superior direito da página, isto irá criar um
 
 ## Passo 2 - Clone o seu fork
 
-<img align="right" width="280" src="Fork.png" alt="clone este repositorio" />
+![Imagem Fork](./Fork.png)
 
 **Clone** o seu **Fork** para a sua máquina, este comando irá criar uma cópia local do repositório, assim você poderá editar os arquivos no seu PC para depois enviá-los de volta para o repositório no GitHub.
 
@@ -57,7 +57,7 @@ Agora se tudo deu certo até então, você poderá ver as suas mudanças no seu 
 
 ## Passo 7 - Gerando um site com GitHub Pages
 
-![Imagem Fork](./Fork.png)
+
 
 Na aba de *Settings* desça até encontrar a parte de **GitHub Pages**, utilize o *Theme Chooser* para escolher um dos templates para o seu site clicando no botão *Choose a theme*
 
