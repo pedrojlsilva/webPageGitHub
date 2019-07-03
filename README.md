@@ -57,7 +57,7 @@ Agora se tudo deu certo até então, você poderá ver as suas mudanças no seu 
 
 ## Passo 7 - Gerando um site com GitHub Pages
 
-<img align="right" width="500" src="assets/GitHubPages.png" alt="GitHub Pages" />
+![Imagem Fork](./Fork.png)
 
 Na aba de *Settings* desça até encontrar a parte de **GitHub Pages**, utilize o *Theme Chooser* para escolher um dos templates para o seu site clicando no botão *Choose a theme*
 
