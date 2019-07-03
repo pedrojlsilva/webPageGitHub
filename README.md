@@ -5,7 +5,7 @@
 
 Clique no botão "Fork" no canto superior direito da página, isto irá criar uma cópia deste repositório para a sua conta.
 
-### **dica:** Se você estiver na página do github.io acesse o repositório em github.com para criar o fork
+### **Atenção** Se você estiver na página do github.io acesse o repositório em github.com para criar o fork
 
 ## Passo 2 - Clone o seu fork
 
@@ -13,9 +13,9 @@ Clique no botão "Fork" no canto superior direito da página, isto irá criar um
 
 **Clone** o seu **Fork** para a sua máquina, este comando irá criar uma cópia local do repositório, assim você poderá editar os arquivos no seu PC para depois enviá-los de volta para o repositório no GitHub.
 
-**dica 1:** observe se o seu nome de usuário está na url a ser clonada
+**Dica 1:** observe se o seu nome de usuário está na url a ser clonada
 
-**dica 2:** Usando o bash do GIT ou o Terminal do Ubuntu, navege para o Desktop ou para alguma pasta do seu computador em que você queira baixar os arquivos antes de clonar.
+**Dica 2:** Usando o bash do GIT ou o Terminal do Ubuntu, navege para o Desktop ou para alguma pasta do seu computador em que você queira baixar os arquivos antes de clonar.
 
 Para clonar digite em seu terminal:
 
@@ -31,11 +31,11 @@ Então vá para a pasta "webPageGitHub" e edite o arquivo README.md, você pode 
 
 ## Passo 4 - Adicione os arquivos modificados a zona de stage
 
-Nem sempre você irá querer "salvar" todos os arquivos que foram modificados naquele momento no git, apenas os arquivos adicionados à zona de **stage** são commitados, você pode especificar arquivo por arquivo a ser adicionado, digitando os seus nomes, ou utilizar o símbolo: `.` para indicar todos os arquivos da pasta, assim:
+Nem sempre você irá querer "salvar" todos os arquivos que foram modificados naquele momento no git, apenas os arquivos adicionados à zona de **stage** são commitados, você pode especificar arquivo por arquivo a ser adicionado, digitando os seus nomes, ou utilizar o símbolo: `.` para inDicar todos os arquivos da pasta, assim:
 
-**dica:** utilize o comando ```git status``` a cada mudança, bem como antes e depois do comando git add.
+**Dica:** utilize o comando ```git status``` a cada mudança, bem como antes e depois do comando git add.
 
-**dica:** experimente criar um novo arquivo na pasta, com o nome de "localNotes.md" por exemplo, na qual você não quer compartilhar por exemplo
+**Dica:** experimente criar um novo arquivo na pasta, com o nome de "localNotes.md" por exemplo, na qual você não quer compartilhar por exemplo
 
 ```bash
 git add .
