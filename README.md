@@ -9,7 +9,7 @@ Clique no botão "Fork" no canto superior direito da página, isto irá criar um
 
 ## Passo 2 - Clone o seu fork
 
-<img align="right" width="280" src="assets/clone.png" alt="clone este repositorio" />
+<img align="right" width="280" src="Fork.png" alt="clone este repositorio" />
 
 **Clone** o seu **Fork** para a sua máquina, este comando irá criar uma cópia local do repositório, assim você poderá editar os arquivos no seu PC para depois enviá-los de volta para o repositório no GitHub.
 
